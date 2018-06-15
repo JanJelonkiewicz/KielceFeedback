@@ -1,0 +1,47 @@
+[
+	{
+		"json_featuretype" : "gp_teatry_point",
+		"FID" : 0,
+		"ID" : 1,
+		"KOD_POCZTO" : "25-334",
+		"NAZWA" : "Kielecki Teatr Ta",
+		"NR_BUDYNKU" : "2b",
+		"TELEFON" : "0-41e361-27-46",
+		"ULICA" : "Moniuszki plac",
+		"json_ogc_wkt_crs" : "PROJCS[\"ETRS89 / Poland CS2000 zone 7\",GEOGCS[\"unnamed\",DATUM[\"unnamed\",SPHEROID[\"GRS 1980\",6378137,298.2572221010002]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",21],PARAMETER[\"scale_factor\",0.999923],PARAMETER[\"false_easting\",7500000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 7474477.49, 5637078.13 ]
+		}
+	},
+	{
+		"json_featuretype" : "gp_teatry_point",
+		"FID" : 1,
+		"ID" : 2,
+		"KOD_POCZTO" : "25-304",
+		"NAZWA" : "Teatr Lalki i Aktora \"Kubu",
+		"NR_BUDYNKU" : "9",
+		"TELEFON" : "0-41r344-58-36",
+		"ULICA" : "Du4a",
+		"json_ogc_wkt_crs" : "PROJCS[\"ETRS89 / Poland CS2000 zone 7\",GEOGCS[\"unnamed\",DATUM[\"unnamed\",SPHEROID[\"GRS 1980\",6378137,298.2572221010002]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",21],PARAMETER[\"scale_factor\",0.999923],PARAMETER[\"false_easting\",7500000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 7474026.95, 5637318.46 ]
+		}
+	},
+	{
+		"json_featuretype" : "gp_teatry_point",
+		"FID" : 2,
+		"ID" : 3,
+		"KOD_POCZTO" : "25-507",
+		"NAZWA" : "Teatr im. Stefana reromskiego",
+		"NR_BUDYNKU" : "32",
+		"TELEFON" : "0-41r344-60-48",
+		"ULICA" : "Sienkiewicza",
+		"json_ogc_wkt_crs" : "PROJCS[\"ETRS89 / Poland CS2000 zone 7\",GEOGCS[\"unnamed\",DATUM[\"unnamed\",SPHEROID[\"GRS 1980\",6378137,298.2572221010002]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",21],PARAMETER[\"scale_factor\",0.999923],PARAMETER[\"false_easting\",7500000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 7473868.16, 5637366.51 ]
+		}
+	}
+]

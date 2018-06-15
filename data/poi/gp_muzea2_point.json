@@ -1,0 +1,223 @@
+[
+	{
+		"json_featuretype" : "gp_muzea2_point",
+		"FID" : 0,
+		"ID" : 1,
+		"ID_" : 1,
+		"KOD_POCZTO" : "25-013",
+		"NAZWA" : "Muzeum Wsi Kieleckiej, Dworek Laszczyk",
+		"NR_BUDYNKU" : "6",
+		"TELEFON" : "0-41 344-92-97",
+		"ULICA" : "Jana Paw-a II",
+		"WWW" : "http://www.mwk.com.pl/index.php?id=28",
+		"json_ogc_wkt_crs" : "PROJCS[\"ETRS89 / Poland CS2000 zone 7\",GEOGCS[\"unnamed\",DATUM[\"unnamed\",SPHEROID[\"GRS 1980\",6378137,298.2572221010002]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",21],PARAMETER[\"scale_factor\",0.999923],PARAMETER[\"false_easting\",7500000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 7473870.8, 5637010.79 ]
+		}
+	},
+	{
+		"json_featuretype" : "gp_muzea2_point",
+		"FID" : 1,
+		"ID" : 2,
+		"ID_" : 2,
+		"KOD_POCZTO" : "25-025",
+		"NAZWA" : "Muzeum Diecezjalne",
+		"NR_BUDYNKU" : "3",
+		"TELEFON" : "0-41 344-58-20",
+		"ULICA" : "Jana Paw-a II",
+		"WWW" : "http://www.muzeum.kielce.pl/",
+		"json_ogc_wkt_crs" : "PROJCS[\"ETRS89 / Poland CS2000 zone 7\",GEOGCS[\"unnamed\",DATUM[\"unnamed\",SPHEROID[\"GRS 1980\",6378137,298.2572221010002]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",21],PARAMETER[\"scale_factor\",0.999923],PARAMETER[\"false_easting\",7500000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 7473935.45, 5637155.94 ]
+		}
+	},
+	{
+		"json_featuretype" : "gp_muzea2_point",
+		"FID" : 2,
+		"ID" : 3,
+		"ID_" : 3,
+		"KOD_POCZTO" : "25-031",
+		"NAZWA" : "Muzeum Lat Szkolnych Stefana heromskiego",
+		"NR_BUDYNKU" : "5",
+		"TELEFON" : "0-41 344-57-92",
+		"ULICA" : "Jana Paw-a II",
+		"WWW" : "http://www.mnki.pl/zeromski/",
+		"json_ogc_wkt_crs" : "PROJCS[\"ETRS89 / Poland CS2000 zone 7\",GEOGCS[\"unnamed\",DATUM[\"unnamed\",SPHEROID[\"GRS 1980\",6378137,298.2572221010002]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",21],PARAMETER[\"scale_factor\",0.999923],PARAMETER[\"false_easting\",7500000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 7473921.93, 5637027.64 ]
+		}
+	},
+	{
+		"json_featuretype" : "gp_muzea2_point",
+		"FID" : 3,
+		"ID" : 4,
+		"ID_" : 4,
+		"KOD_POCZTO" : "25-010",
+		"NAZWA" : "Bazylika Katedralna, p.w. Wniebowzikcia Naj",
+		"NR_BUDYNKU" : "3",
+		"TELEFON" : "0-41 344-33-91",
+		"ULICA" : "Panny Marii plac",
+		"WWW" : " ",
+		"json_ogc_wkt_crs" : "PROJCS[\"ETRS89 / Poland CS2000 zone 7\",GEOGCS[\"unnamed\",DATUM[\"unnamed\",SPHEROID[\"GRS 1980\",6378137,298.2572221010002]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",21],PARAMETER[\"scale_factor\",0.999923],PARAMETER[\"false_easting\",7500000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 7473877.7, 5637128.73 ]
+		}
+	},
+	{
+		"json_featuretype" : "gp_muzea2_point",
+		"FID" : 4,
+		"ID" : 5,
+		"ID_" : 5,
+		"KOD_POCZTO" : "25-010",
+		"NAZWA" : "Muzeum Narodowe w Kielcach, Pabac BiskupNw Krakowskich",
+		"NR_BUDYNKU" : "1",
+		"TELEFON" : "0-41 344-23-18",
+		"ULICA" : "Zamkowa",
+		"WWW" : "http://www.mnki.pl",
+		"json_ogc_wkt_crs" : "PROJCS[\"ETRS89 / Poland CS2000 zone 7\",GEOGCS[\"unnamed\",DATUM[\"unnamed\",SPHEROID[\"GRS 1980\",6378137,298.2572221010002]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",21],PARAMETER[\"scale_factor\",0.999923],PARAMETER[\"false_easting\",7500000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 7473780.82, 5637152.44 ]
+		}
+	},
+	{
+		"json_featuretype" : "gp_muzea2_point",
+		"FID" : 5,
+		"ID" : 6,
+		"ID_" : 6,
+		"KOD_POCZTO" : "25-010",
+		"NAZWA" : "Muzeum Pamimci Narodowej, wiPzienie kieleckie z lat 1939-1956",
+		"NR_BUDYNKU" : "3",
+		"TELEFON" : "0-41 342-19-82",
+		"ULICA" : "Zamkowa",
+		"WWW" : " ",
+		"json_ogc_wkt_crs" : "PROJCS[\"ETRS89 / Poland CS2000 zone 7\",GEOGCS[\"unnamed\",DATUM[\"unnamed\",SPHEROID[\"GRS 1980\",6378137,298.2572221010002]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",21],PARAMETER[\"scale_factor\",0.999923],PARAMETER[\"false_easting\",7500000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 7473726.83, 5637074.67 ]
+		}
+	},
+	{
+		"json_featuretype" : "gp_muzea2_point",
+		"FID" : 6,
+		"ID" : 7,
+		"ID_" : 7,
+		"KOD_POCZTO" : "25-514",
+		"NAZWA" : "Kamienica pod Trzema Herbami, Muzeum Narodowe w Kielcach",
+		"NR_BUDYNKU" : "3/5",
+		"TELEFON" : "0-41 344-40-14 w 238",
+		"ULICA" : "Rynek",
+		"WWW" : "http://www.mnki.pl/orla/index.html",
+		"json_ogc_wkt_crs" : "PROJCS[\"ETRS89 / Poland CS2000 zone 7\",GEOGCS[\"unnamed\",DATUM[\"unnamed\",SPHEROID[\"GRS 1980\",6378137,298.2572221010002]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",21],PARAMETER[\"scale_factor\",0.999923],PARAMETER[\"false_easting\",7500000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 7474071.58, 5637473.96 ]
+		}
+	},
+	{
+		"json_featuretype" : "gp_muzea2_point",
+		"FID" : 7,
+		"ID" : 8,
+		"ID_" : 8,
+		"KOD_POCZTO" : "25-303",
+		"NAZWA" : "Muzeum Historii Kielc",
+		"NR_BUDYNKU" : "4",
+		"TELEFON" : "0-41 340-55-20",
+		"ULICA" : "0w. Leonarda",
+		"WWW" : "http://www.muzeumhistoriikielc.pl",
+		"json_ogc_wkt_crs" : "PROJCS[\"ETRS89 / Poland CS2000 zone 7\",GEOGCS[\"unnamed\",DATUM[\"unnamed\",SPHEROID[\"GRS 1980\",6378137,298.2572221010002]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",21],PARAMETER[\"scale_factor\",0.999923],PARAMETER[\"false_easting\",7500000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 7474279.95, 5637226.74 ]
+		}
+	},
+	{
+		"json_featuretype" : "gp_muzea2_point",
+		"FID" : 8,
+		"ID" : 9,
+		"ID_" : 9,
+		"KOD_POCZTO" : "25-367",
+		"NAZWA" : "Muzeum Zabawek i Zabawy",
+		"NR_BUDYNKU" : "2",
+		"TELEFON" : "0-41 34-440-78",
+		"ULICA" : "Plac Wolno0ci",
+		"WWW" : "http://www.muzeumzabawek.eu/",
+		"json_ogc_wkt_crs" : "PROJCS[\"ETRS89 / Poland CS2000 zone 7\",GEOGCS[\"unnamed\",DATUM[\"unnamed\",SPHEROID[\"GRS 1980\",6378137,298.2572221010002]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",21],PARAMETER[\"scale_factor\",0.999923],PARAMETER[\"false_easting\",7500000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 7474289.96, 5637044.45 ]
+		}
+	},
+	{
+		"json_featuretype" : "gp_muzea2_point",
+		"FID" : 9,
+		"ID" : 10,
+		"ID_" : 10,
+		"KOD_POCZTO" : "25-953",
+		"NAZWA" : "Muzeum Zbioruw Geologicznych",
+		"NR_BUDYNKU" : "21",
+		"TELEFON" : "0-41 361-25-37",
+		"ULICA" : "Zgoda",
+		"WWW" : "http://www.pgi.kielce.pl/",
+		"json_ogc_wkt_crs" : "PROJCS[\"ETRS89 / Poland CS2000 zone 7\",GEOGCS[\"unnamed\",DATUM[\"unnamed\",SPHEROID[\"GRS 1980\",6378137,298.2572221010002]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",21],PARAMETER[\"scale_factor\",0.999923],PARAMETER[\"false_easting\",7500000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 7473896.18, 5636311.44 ]
+		}
+	},
+	{
+		"json_featuretype" : "gp_muzea2_point",
+		"FID" : 10,
+		"ID" : 11,
+		"ID_" : 11,
+		"KOD_POCZTO" : "25-514",
+		"NAZWA" : "2wi5tokrzyska Galeria Sztuki Wspl",
+		"NR_BUDYNKU" : "3",
+		"TELEFON" : "0-41 344-40-14 w 238",
+		"ULICA" : "Orla",
+		"WWW" : " ",
+		"json_ogc_wkt_crs" : "PROJCS[\"ETRS89 / Poland CS2000 zone 7\",GEOGCS[\"unnamed\",DATUM[\"unnamed\",SPHEROID[\"GRS 1980\",6378137,298.2572221010002]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",21],PARAMETER[\"scale_factor\",0.999923],PARAMETER[\"false_easting\",7500000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 7474111.95, 5637519.1 ]
+		}
+	},
+	{
+		"json_featuretype" : "gp_muzea2_point",
+		"FID" : 11,
+		"ID" : 12,
+		"ID_" : 12,
+		"KOD_POCZTO" : "25-035",
+		"NAZWA" : "Cmentarz 4ydowski",
+		"NR_BUDYNKU" : "9",
+		"TELEFON" : "0-41 361-62-01",
+		"ULICA" : "Marmurowa",
+		"WWW" : " ",
+		"json_ogc_wkt_crs" : "PROJCS[\"ETRS89 / Poland CS2000 zone 7\",GEOGCS[\"unnamed\",DATUM[\"unnamed\",SPHEROID[\"GRS 1980\",6378137,298.2572221010002]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",21],PARAMETER[\"scale_factor\",0.999923],PARAMETER[\"false_easting\",7500000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 7472383.42, 5635837.03 ]
+		}
+	},
+	{
+		"json_featuretype" : "gp_muzea2_point",
+		"FID" : 12,
+		"ID" : 13,
+		"ID_" : 13,
+		"KOD_POCZTO" : "25-045",
+		"NAZWA" : "Dolina Gad2w 1 Park Stadion",
+		"NR_BUDYNKU" : "61A",
+		"TELEFON" : "0-41n361-40-81",
+		"ULICA" : "Kusoci6skiego",
+		"WWW" : "http://www.dolinagadow.pl",
+		"json_ogc_wkt_crs" : "PROJCS[\"ETRS89 / Poland CS2000 zone 7\",GEOGCS[\"unnamed\",DATUM[\"unnamed\",SPHEROID[\"GRS 1980\",6378137,298.2572221010002]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",21],PARAMETER[\"scale_factor\",0.999923],PARAMETER[\"false_easting\",7500000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 7472252.44, 5635266.28 ]
+		}
+	}
+]

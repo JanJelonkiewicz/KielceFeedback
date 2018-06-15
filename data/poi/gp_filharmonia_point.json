@@ -1,0 +1,17 @@
+[
+	{
+		"json_featuretype" : "gp_filharmonia_point",
+		"FID" : 0,
+		"ID" : 1,
+		"KOD_POCZTO" : "25-369",
+		"NAZWA" : "Filharmonia ",
+		"NR_BUDYNKU" : "12",
+		"TELEFON" : "41",
+		"ULICA" : "4eromskiego",
+		"json_ogc_wkt_crs" : "PROJCS[\"ETRS89 / Poland CS2000 zone 7\",GEOGCS[\"unnamed\",DATUM[\"unnamed\",SPHEROID[\"GRS 1980\",6378137,298.2572221010002]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",21],PARAMETER[\"scale_factor\",0.999923],PARAMETER[\"false_easting\",7500000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 7474420.58, 5636885.19 ]
+		}
+	}
+]
