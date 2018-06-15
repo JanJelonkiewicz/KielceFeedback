@@ -9,9 +9,10 @@ function initMap()
 		minZoom: 13,
 		center: mapCenter,
 		fullscreenControl: false,
-		streetViewControl: false
+		streetViewControl: false,
+		mapTypeControl: false
 	}
 
-	var map = new google.maps.Map(document.getElementById('map'), mapOptions);
+	var map = new google.maps.Map(document.getElementById("map"), mapOptions);
 	//var marker = new google.maps.Marker({position: mapCenter, map: map});
 }
