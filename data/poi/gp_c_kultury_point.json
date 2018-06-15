@@ -1,0 +1,92 @@
+[
+	{
+		"json_featuretype" : "gp_c_kultury_point",
+		"FID" : 0,
+		"ID" : 1,
+		"KOD_POCZTO" : "25-009",
+		"NAZWA" : "Dom 0rodowisk Tw",
+		"NR_BUDYNKU" : "5",
+		"TELEFON" : "0-410368-20-54",
+		"ULICA" : "Zamkowa",
+		"json_ogc_wkt_crs" : "PROJCS[\"ETRS89 / Poland CS2000 zone 7\",GEOGCS[\"unnamed\",DATUM[\"unnamed\",SPHEROID[\"GRS 1980\",6378137,298.2572221010002]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",21],PARAMETER[\"scale_factor\",0.999923],PARAMETER[\"false_easting\",7500000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 7473679.27, 5637050.47 ]
+		}
+	},
+	{
+		"json_featuretype" : "gp_c_kultury_point",
+		"FID" : 1,
+		"ID" : 2,
+		"KOD_POCZTO" : "25-033",
+		"NAZWA" : "Wojew3dzki Dom Kultury im. J. Pi",
+		"NR_BUDYNKU" : "2",
+		"TELEFON" : "0-41w365-51-00",
+		"ULICA" : "0ciegiennego",
+		"json_ogc_wkt_crs" : "PROJCS[\"ETRS89 / Poland CS2000 zone 7\",GEOGCS[\"unnamed\",DATUM[\"unnamed\",SPHEROID[\"GRS 1980\",6378137,298.2572221010002]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",21],PARAMETER[\"scale_factor\",0.999923],PARAMETER[\"false_easting\",7500000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 7473758.55, 5636506.24 ]
+		}
+	},
+	{
+		"json_featuretype" : "gp_c_kultury_point",
+		"FID" : 2,
+		"ID" : 3,
+		"KOD_POCZTO" : "25-365",
+		"NAZWA" : "Dom Kultury ",
+		"NR_BUDYNKU" : "23",
+		"TELEFON" : "0-41K361-39-31",
+		"ULICA" : "S-owackiego",
+		"json_ogc_wkt_crs" : "PROJCS[\"ETRS89 / Poland CS2000 zone 7\",GEOGCS[\"unnamed\",DATUM[\"unnamed\",SPHEROID[\"GRS 1980\",6378137,298.2572221010002]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",21],PARAMETER[\"scale_factor\",0.999923],PARAMETER[\"false_easting\",7500000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 7474076.33, 5636587.95 ]
+		}
+	},
+	{
+		"json_featuretype" : "gp_c_kultury_point",
+		"FID" : 3,
+		"ID" : 4,
+		"KOD_POCZTO" : "25-334",
+		"NAZWA" : "Kieleckie Centrum Kultury",
+		"NR_BUDYNKU" : "2b",
+		"TELEFON" : "0-41e344-40-32",
+		"ULICA" : "Moniuszki plac",
+		"json_ogc_wkt_crs" : "PROJCS[\"ETRS89 / Poland CS2000 zone 7\",GEOGCS[\"unnamed\",DATUM[\"unnamed\",SPHEROID[\"GRS 1980\",6378137,298.2572221010002]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",21],PARAMETER[\"scale_factor\",0.999923],PARAMETER[\"false_easting\",7500000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 7474459.39, 5637103.6 ]
+		}
+	},
+	{
+		"json_featuretype" : "gp_c_kultury_point",
+		"FID" : 4,
+		"ID" : 5,
+		"KOD_POCZTO" : "25-520",
+		"NAZWA" : "M5odziekowy Dom Kultury",
+		"NR_BUDYNKU" : "10a",
+		"TELEFON" : "0-41z344-34-23",
+		"ULICA" : "Kozia",
+		"json_ogc_wkt_crs" : "PROJCS[\"ETRS89 / Poland CS2000 zone 7\",GEOGCS[\"unnamed\",DATUM[\"unnamed\",SPHEROID[\"GRS 1980\",6378137,298.2572221010002]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",21],PARAMETER[\"scale_factor\",0.999923],PARAMETER[\"false_easting\",7500000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 7474085.96, 5637670.17 ]
+		}
+	},
+	{
+		"json_featuretype" : "gp_c_kultury_point",
+		"FID" : 5,
+		"ID" : 6,
+		"KOD_POCZTO" : "25-416",
+		"NAZWA" : "Baza Zbo-owa",
+		"NR_BUDYNKU" : "4",
+		"TELEFON" : "0-41 344-11-74",
+		"ULICA" : "Zbo1owa",
+		"json_ogc_wkt_crs" : "PROJCS[\"ETRS89 / Poland CS2000 zone 7\",GEOGCS[\"unnamed\",DATUM[\"unnamed\",SPHEROID[\"GRS 1980\",6378137,298.2572221010002]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",21],PARAMETER[\"scale_factor\",0.999923],PARAMETER[\"false_easting\",7500000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 7475752.03, 5638139.4 ]
+		}
+	}
+]
