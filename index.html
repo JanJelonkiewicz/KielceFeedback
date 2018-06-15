@@ -3,9 +3,10 @@
     <head>
 		<link rel="stylesheet" href="css/style.css">
     </head>
-    <body>
+    <body onresize="onResize()">
 	<div id="map" class="map"></div>
 	<div id="sidebar" class="sidebar">
+		<img src="img/pasek.png" id="sidebar-image" class="sidebar-image">
 		<div class="sidebar-panel" onmouseover="showSidebar()" onmouseleave="hideSidebar()">
 			<button href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</button>
 			<button href="#">About</button>
@@ -13,11 +14,11 @@
 			<button href="#">Clients</button>
 			<button href="#">Contact</button>
 		</div>
-		<div class="sidebar-triangle" onmouseover="showSidebar()" onmouseleave="hideSidebar()"></div>
 	</div>
 
-	<script src = "js/map.js"></script>
-	<script src = "js/sidebar.js"></script>
+	<script src="js/main.js"></script>
+	<script src="js/map.js"></script>
+	<script src="js/sidebar.js"></script>
 	<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAdyfOSV96f6xESZWf743xHprwOa3cjYnY&callback=initMap">
 	</script>
     </body>
