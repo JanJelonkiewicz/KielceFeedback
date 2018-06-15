@@ -29,16 +29,45 @@ body
     transition: margin-left 2s;
 }
 
-.sidebar-image
+.sidebar-bg
 {
 	max-height: 100%;
 }
 
-.sidebar-panel
+.sidebar-contents
 {
 	left: 0;
 	top: 0;
-	width: 100%;
+	width: 76.84729064%;
 	height: 100%;
+	position: absolute;
+	overflow-y: scroll;
+}
+
+.sidebar-logo
+{
+	width: 100%;
+}
+
+.sidebar-option
+{
+	width: 100%;
+	height: 10%;
+	position: relative;
+}
+
+.sidebar-option img
+{
+	width: 100%;
+	position: absolute;
+}
+
+.sidebar-option span
+{
+	top: 0%;
+	left: 10%;
+	font-family: "Poppins", sans-serif;
+	color: white;
+	font-size: 24px;
 	position: absolute;
 }

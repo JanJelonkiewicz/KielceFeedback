@@ -18,7 +18,7 @@ function toggleSidebar()
 
 function updateSidebarWidth()
 {
-	sidebarWidth = (document.getElementById("sidebar-image").clientWidth);
+	sidebarWidth = (document.getElementById("sidebar-bg").clientWidth);
 	sidebarRectangleWidth = Math.ceil(sidebarWidth * 503/609) + 1;
 
 	document.getElementById("sidebar").style.width = "" + sidebarWidth + "px";
@@ -38,6 +38,11 @@ function showSidebar()
 function hideSidebar()
 {
 	document.getElementById("sidebar").style.marginLeft = "-" + sidebarRectangleWidth + "px";
+}
+
+function toggleSubList(sidebarOption)
+{
+	sidebarOption.style.height = (sidebarOption.clientHeight + 2) + "px";
 }
 
 updateSidebarWidth();

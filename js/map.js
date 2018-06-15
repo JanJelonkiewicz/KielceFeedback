@@ -18,6 +18,8 @@ function initMap()
 	}
 
 	map = new google.maps.Map(document.getElementById("map"), mapOptions);
+
+	showPointsOfInterest("data/poi/gp_teatry_point.json");
 }
 
 function showPointsOfInterest(jsonFile)
@@ -42,6 +44,7 @@ function showPointsOfInterest(jsonFile)
 		var marker = new google.maps.Marker(
 			{
 				position: position,
+				icon: "img/point.png",
 				map: map
 			}
 		);
