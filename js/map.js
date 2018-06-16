@@ -27,9 +27,6 @@ function initMap()
 	}
 
 	map = new google.maps.Map(document.getElementById("map"), mapOptions);
-
-	showPointsOfInterest("data/poi/gp_teatry_point.json");
-	showHeatmap("data/demand/test.json");
 }
 
 function showPointsOfInterest(jsonFile)
