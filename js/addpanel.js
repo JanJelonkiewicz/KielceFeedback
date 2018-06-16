@@ -1,4 +1,3 @@
-var panelVisible;
 var panelShown = false;
 var panelHeight = 0;
 var panelRectangleHeight = 0;
@@ -19,24 +18,24 @@ function togglePanel()
 
 function showPanel()
 {
-	document.getElementById("addpanel").style.marginTop = "-616px";
+	document.getElementById("addpanel").style.marginTop = "0px";
 }
 
 function hidePanel()
 {
-	document.getElementById("addpanel").style.marginTop = "-675px";
+	document.getElementById("addpanel").style.marginTop = "" + -panelRectangleHeight + "px";
 }
 
 function updatePanelHeight()
 {
-	panelHeight = (document.getElementById("addpanel-bg").clientHeight);
-	panelRectangleHeight = Math.ceil(panelHeight * 62/90) + 1;
+	panelHeight = document.getElementById("addpanel-bg").clientHeight;
+	panelRectangleHeight = panelHeight * 0.4;
 
 	document.getElementById("addpanel").style.height = "" + panelHeight + "px";
-	if (!sidebarShown)
+	if (!panelShown)
 	{
 		//document.getElementById("sidebar").classList.add("no-transition");
-		document.getElementById("addpanel").style.marginTop = "-" + panelRectangleHeight + "px";
+		hidePanel();
 		//document.getElementById("sidebar").classList.remove("no-transition");
 	}
 }

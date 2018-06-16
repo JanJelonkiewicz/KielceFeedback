@@ -97,8 +97,6 @@ body
 {
 	width: 100%;
 	height: 100%;
-
-
 }
 
 .mainlogo img
@@ -109,17 +107,16 @@ body
 
 .addpanel
 {
-	width: 100%;
-	height: 100%;
+	top: 0;
+	left: 80%;
+	width: 10%;
 	position: absolute;
-	right: -1100px;
-	margin-top: -675px;
 	transition: margin-top 1s;
 }
 
 .addpanel img
 {
-	height: 25%;
+	width: 100%;
 }
 
 ::-webkit-scrollbar
