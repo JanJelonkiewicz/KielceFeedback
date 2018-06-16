@@ -24,6 +24,7 @@ body
 .sidebar
 {
     margin-left: -100px;
+	top: 0px;
     height: 100%;
     position: absolute;
     transition: margin-left 2s;
@@ -70,6 +71,19 @@ body
 	color: white;
 	font-size: 24px;
 	position: absolute;
+}
+
+.mainlogo
+{
+	width: 100%;
+	height: 100%;
+
+}
+
+.mainlogo img
+{
+	height: 30%;
+	position: relative;
 }
 
 ::-webkit-scrollbar
