@@ -1,5 +1,6 @@
 activeMarkers = [];
 var map;
+var heatmap;
 
 function initMap()
 {
@@ -28,6 +29,7 @@ function initMap()
 	map = new google.maps.Map(document.getElementById("map"), mapOptions);
 
 	showPointsOfInterest("data/poi/gp_teatry_point.json");
+	showHeatmap("data/demand/test.json");
 }
 
 function showPointsOfInterest(jsonFile)
@@ -63,5 +65,22 @@ function showHeatmap(jsonFile)
 	request.send(null);
 	var allPoiData = JSON.parse(request.responseText);
 
-	
+	var heatmapData = [];
+
+	allPoiData.forEach(function(poiData)
+	{
+		heatmapData.push(
+			{
+				location: new google.maps.LatLng(poiData[0], poiData[1]),
+			});
+	});
+
+	heatmap = new google.maps.visualization.HeatmapLayer({
+		data: heatmapData
+	});
+
+	heatmap.set("radius", 20);
+	heatmap.setMap(map);
+
+	console.log("done");
 }
