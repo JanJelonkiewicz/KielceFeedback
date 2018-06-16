@@ -1,0 +1,10 @@
+<div class="sublist-option">przedszkola</div>
+				<div class="sublist-option">kawiarnie</div>
+				<div class="sublist-option">sklepy spo¿ywcze</div>
+				<div class="sublist-option">fryzjerzy</div>
+				<div class="sublist-option">piekarnie</div>
+				<div class="sublist-option">weterynarz</div>
+				<div class="sublist-option">supermarkety</div>
+				<div class="sublist-option">sklepy z odzie¿¹</div>
+				<div class="sublist-option">kwiaciaranie</div>
+				<div class="sublist-option">banki</div>
