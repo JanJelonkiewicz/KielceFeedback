@@ -9,7 +9,10 @@
 	<div id="mainlogo" class="mainlogo">
 		<img src="img/mainlogo.png"/>
 	</div>
-	<div id="sidebar" class="sidebar" onmouseover="showSidebar()" onmouseleave="">
+	<div id="addpanel" class="addpanel" onclick="togglePanel()">
+		<img src="img/dodaj.png"/>
+	</div>
+	<div id="sidebar" class="sidebar" onmouseover="showSidebar()" onmouseleave="hideSidebar()">
 		<img src="img/pasek.png" id="sidebar-bg" class="sidebar-bg">
 		<div class="sidebar-contents">
 			<img src="img/logo.png" class="sidebar-logo">
@@ -43,7 +46,8 @@
 	<script src="js/main.js"></script>
 	<script src="js/map.js"></script>
 	<script src="js/sidebar.js"></script>
-	<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAdyfOSV96f6xESZWf743xHprwOa3cjYnY&callback=initMap">
+	<script src="js/addpanel.js"></script>
+	<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAdyfOSV96f6xESZWf743xHprwOa3cjYnY&libraries=visualization&callback=initMap">
 	</script>
     </body>
 </html>

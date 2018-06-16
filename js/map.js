@@ -55,3 +55,13 @@ function showPointsOfInterest(jsonFile)
 		activeMarkers.push(marker);
 	});
 }
+
+function showHeatmap(jsonFile)
+{
+	var request = new XMLHttpRequest();
+	request.open("GET", jsonFile, false);
+	request.send(null);
+	var allPoiData = JSON.parse(request.responseText);
+
+	
+}
