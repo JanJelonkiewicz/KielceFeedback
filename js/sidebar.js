@@ -42,7 +42,18 @@ function hideSidebar()
 
 function toggleSubList(sidebarOption)
 {
-	sidebarOption.style.height = (sidebarOption.clientHeight + 2) + "px";
+	var subList = sidebarOption.nextElementSibling;
+
+	console.log(subList.scrollHeight)
+
+	if (subList.style.height != (subList.scrollHeight + "px"))
+	{
+		subList.style.height = (subList.scrollHeight + "px");
+	}
+	else
+	{
+		subList.style.height = "0px";
+	}
 }
 
 updateSidebarWidth();

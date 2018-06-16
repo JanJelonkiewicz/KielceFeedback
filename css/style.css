@@ -53,14 +53,13 @@ body
 .sidebar-option
 {
 	width: 100%;
-	height: 10%;
 	position: relative;
 }
 
 .sidebar-option img
 {
 	width: 100%;
-	position: absolute;
+	position: relative;
 }
 
 .sidebar-option span
@@ -71,6 +70,14 @@ body
 	color: white;
 	font-size: 24px;
 	position: absolute;
+}
+
+.sublist
+{
+	width: 100%;
+	height: 0px;
+	overflow: hidden;
+	transition: height 0.2s ease-out;
 }
 
 .mainlogo
