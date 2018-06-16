@@ -14,7 +14,15 @@ function initMap()
 		center: mapCenter,
 		fullscreenControl: false,
 		streetViewControl: false,
-		mapTypeControl: false
+		mapTypeControl: false,
+		styles: [
+    {
+      "featureType": "poi",
+      "stylers": [
+        { "visibility": "off" }
+      ]
+    }
+  ]
 	}
 
 	map = new google.maps.Map(document.getElementById("map"), mapOptions);

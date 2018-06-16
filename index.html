@@ -6,31 +6,33 @@
     </head>
     <body onresize="onResize()">
 	<div id="map" class="map"></div>
-	<div id="sidebar" class="sidebar" onmouseover="showSidebar()" onmouseleave="">
+	<div id="sidebar" class="sidebar" onmouseover="showSidebar()" onmouseleave="hideSidebar ()">
 		<img src="img/pasek.png" id="sidebar-bg" class="sidebar-bg">
 		<div class="sidebar-contents">
 			<img src="img/logo.png" class="sidebar-logo">
 			<div class="sidebar-option" onclick="toggleSubList(this)">
 				<a href="#">
 					<img src="img/menu_czerwony_pasek.png"></img>
-					<span>asd</span>
+					<span>Przystanki</span>
 				</a>
 			</div>
 			<div class="sidebar-option">
 				<a href="#">
 					<img src="img/menu_czerwony_pasek.png"></img>
-					<span>asd</span>
+					<span>Parkingi</span>
 				</a>
 			</div>
 			<div class="sidebar-option">
 				<a href="#">
 					<img src="img/menu_czerwony_pasek.png"></img>
-					<span>asd</span>
+					<span>Lokale</span>
 				</a>
 			</div>
 		</div>
 	</div>
-
+	<div id="add">
+	<img src="main_logo.png"/>
+	</div>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/proj4js/2.4.4/proj4.js"></script>
 	<script src="js/main.js"></script>
 	<script src="js/map.js"></script>
