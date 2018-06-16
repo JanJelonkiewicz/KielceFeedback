@@ -9,11 +9,6 @@ body
     margin: 0;
 }
 
-.no-transition
-{
-	transition: none !important;
-}
-
 .map
 {
     width: 100%;
@@ -24,7 +19,7 @@ body
 .sidebar
 {
     margin-left: -100px;
-	top: 0px;
+	top: 0;
     height: 100%;
     position: absolute;
     transition: margin-left 2s;
@@ -52,6 +47,8 @@ body
 
 .sidebar-option
 {
+	padding-top: 3.5%;
+	padding-bottom: 1.5%;
 	width: 100%;
 	position: relative;
 }
@@ -64,8 +61,10 @@ body
 
 .sidebar-option span
 {
-	top: 0%;
+	top: 0;
 	left: 10%;
+	padding-top: 3.5%;
+	padding-bottom: 1.5%;
 	font-family: "Poppins", sans-serif;
 	color: white;
 	font-size: 24px;
@@ -75,9 +74,23 @@ body
 .sublist
 {
 	width: 100%;
-	height: 0px;
+	height: 0;
 	overflow: hidden;
 	transition: height 0.2s ease-out;
+}
+
+.sublist-option:before
+{
+	content: url("../img/kwadracik.png");
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+.sublist-option
+{
+	font-family: "Poppins", sans-serif;
+	color: #FF3131;
+	font-size: 18px;
 }
 
 .mainlogo

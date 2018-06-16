@@ -44,8 +44,6 @@ function toggleSubList(sidebarOption)
 {
 	var subList = sidebarOption.nextElementSibling;
 
-	console.log(subList.scrollHeight)
-
 	if (subList.style.height != (subList.scrollHeight + "px"))
 	{
 		subList.style.height = (subList.scrollHeight + "px");

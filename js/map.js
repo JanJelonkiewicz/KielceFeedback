@@ -10,6 +10,7 @@ function initMap()
 	var mapOptions = {
 		zoom: 14,
 		minZoom: 13,
+		maxZoom: 18,
 		center: mapCenter,
 		fullscreenControl: false,
 		streetViewControl: false,
